@@ -20,12 +20,12 @@ const IndexPage = () => (
                     You are what you listen to
                   </h1>
                   <h5 className="text-white font-semibold">
-                    We're here to help you create an amazing set of playlists!
-                    Those songs you played over the time are going to be used
-                    for creating these playlists. We analize your music habits,
-                    what songs you play the most, which artist are you listen to
-                    all the time and bassed on that data we create amazing
-                    playlists to melodify your soul!
+                    We're here to help you discover those amazing sets of
+                    playlists! Those songs you played over the time are going to
+                    be used for creating these playlists. We analize your music
+                    habits, what songs you play the most, which artist are you
+                    listen to all the time and based on that data we create
+                    amazing playlists to melodify your soul!
                   </h5>
                 </Col>
                 <Col lg={2}></Col>
