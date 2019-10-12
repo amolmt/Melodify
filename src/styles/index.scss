@@ -1,12 +1,8 @@
+@import 'main';
+
 .main {
   background: url('../images/home-bg.jpg') 100% center no-repeat;
   background-size: cover;
-  .spotify-btn-wrapper {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-  }
   .spotify-link {
     display: -ms-flexbox;
     display: flex;
