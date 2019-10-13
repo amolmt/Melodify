@@ -1,8 +1,7 @@
 @import 'main';
 
 .main {
-  background: url('../images/home-bg.jpg') 100% center no-repeat;
-  background-size: cover;
+  height: 100vh;
   .spotify-link {
     display: -ms-flexbox;
     display: flex;
