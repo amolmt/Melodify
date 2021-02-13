@@ -9,7 +9,7 @@ import SpotifyBtn from '../components/SpotifyBtn'
 const IndexPage = props => (
   <div>
     <SEO title="Home" />
-    // lazy load home page
+    {/* lazy load home page */}
     <BackgroundImage
       fluid={props.data.markdownRemark.frontmatter.image.childImageSharp.fluid}
     >
