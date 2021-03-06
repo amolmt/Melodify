@@ -7,8 +7,6 @@ import '../styles/index.scss'
 import SpotifyBtn from '../components/SpotifyBtn
 
 // wrong
-
-
 // fssd
 
 const IndexPage = props => (
