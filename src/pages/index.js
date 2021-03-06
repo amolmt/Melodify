@@ -4,7 +4,9 @@ import { graphql } from 'gatsby'
 import BackgroundImage from 'gatsby-background-image'
 import SEO from '../components/seo'
 import '../styles/index.scss'
-import SpotifyBtn from '../components/SpotifyBtn'
+import SpotifyBtn from '../components/SpotifyBtn
+
+//ram changes
 
 const IndexPage = props => (
   <div>
