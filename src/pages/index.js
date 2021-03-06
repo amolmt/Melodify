@@ -6,7 +6,7 @@ import SEO from '../components/seo'
 import '../styles/index.scss'
 import SpotifyBtn from '../components/SpotifyBtn
 
-//abc
+// wrong
 
 const IndexPage = props => (
   <div>
