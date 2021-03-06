@@ -6,7 +6,7 @@ import SEO from '../components/seo'
 import '../styles/index.scss'
 import SpotifyBtn from '../components/SpotifyBtn
 
-// amol tangade
+//abc
 
 const IndexPage = props => (
   <div>
